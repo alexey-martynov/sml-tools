@@ -4,5 +4,6 @@
 
 * Parsing of C++ sources with Boost.SML is implemented.
 
-* Generation of Mermaid diagram is implemented.
+* Generation of Mermaid state chart v2  is implemented.
 
+* Generation of PlantUML state chart is implemented.

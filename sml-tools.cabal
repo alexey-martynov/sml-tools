@@ -22,7 +22,11 @@ maintainer:         martynov.alexey@gmail.com
 extra-source-files: CHANGELOG.md
 
 library
-    exposed-modules:  FSM SML Mermaid.FSM
+    exposed-modules:
+        FSM,
+        SML,
+        PlantUML.FSM,
+        Mermaid.FSM
 
     -- Modules included in this library but not exported.
     -- other-modules:
